@@ -1,0 +1,4 @@
+net wlp2s0
+seccomp !netlink
+private-dev
+private-tmp
