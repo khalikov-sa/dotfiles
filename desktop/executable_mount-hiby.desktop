@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Подключить HiBy R4
+Exec=/home/exceed/.local/bin/mount-hiby.sh
+Icon=multimedia-player
+Terminal=false

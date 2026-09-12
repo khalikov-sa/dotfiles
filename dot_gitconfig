@@ -1,0 +1,12 @@
+[user]
+	name = khalikov-sa
+	email = khalikov.ss@yandex.ru
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
+	sagecrlf = warn
+[http]
+	proxy = 
+[https]
+	proxy = 

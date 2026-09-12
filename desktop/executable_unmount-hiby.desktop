@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Отключить HiBy R4
+Exec=/home/exceed/.local/bin/unmount-hiby.sh
+Icon=media-eject
+Terminal=false
